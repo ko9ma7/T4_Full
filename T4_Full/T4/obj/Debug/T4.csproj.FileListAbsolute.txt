@@ -12,3 +12,11 @@ C:\D\Git\20200416_1929_T4\T4_full\T4\obj\Debug\T4.csprojAssemblyReference.cache
 C:\D\Git\20200416_1929_T4\T4_full\T4\obj\Debug\T4.csproj.CoreCompileInputs.cache
 C:\D\Git\20200416_1929_T4\T4_full\T4\obj\Debug\T4.exe
 C:\D\Git\20200416_1929_T4\T4_full\T4\obj\Debug\T4.pdb
+C:\D\Git_Hub_V2\T4_Full\T4_Full\T4\bin\Debug\T4.exe.config
+C:\D\Git_Hub_V2\T4_Full\T4_Full\T4\bin\Debug\T4.exe
+C:\D\Git_Hub_V2\T4_Full\T4_Full\T4\bin\Debug\T4.pdb
+C:\D\Git_Hub_V2\T4_Full\T4_Full\T4\obj\Debug\T4.csproj.AssemblyReference.cache
+C:\D\Git_Hub_V2\T4_Full\T4_Full\T4\obj\Debug\T4.csproj.SuggestedBindingRedirects.cache
+C:\D\Git_Hub_V2\T4_Full\T4_Full\T4\obj\Debug\T4.csproj.CoreCompileInputs.cache
+C:\D\Git_Hub_V2\T4_Full\T4_Full\T4\obj\Debug\T4.exe
+C:\D\Git_Hub_V2\T4_Full\T4_Full\T4\obj\Debug\T4.pdb
