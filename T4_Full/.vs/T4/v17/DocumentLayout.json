@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B68FF6-29C3-4209-B5F3-90B5F1AA82DE}|T4\\T4.csproj|C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\t4\\texttemplate2.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59B68FF6-29C3-4209-B5F3-90B5F1AA82DE}|T4\\T4.csproj|solutionrelative:t4\\texttemplate2.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B68FF6-29C3-4209-B5F3-90B5F1AA82DE}|T4\\T4.csproj|c:\\d\\github\\githuboll\\t4_full\\t4_full\\t4\\texttemplate4.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59B68FF6-29C3-4209-B5F3-90B5F1AA82DE}|T4\\T4.csproj|solutionrelative:t4\\texttemplate4.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B68FF6-29C3-4209-B5F3-90B5F1AA82DE}|T4\\T4.csproj|C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\t4\\texttemplate3.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59B68FF6-29C3-4209-B5F3-90B5F1AA82DE}|T4\\T4.csproj|solutionrelative:t4\\texttemplate3.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B68FF6-29C3-4209-B5F3-90B5F1AA82DE}|T4\\T4.csproj|C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\t4\\texttemplate3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59B68FF6-29C3-4209-B5F3-90B5F1AA82DE}|T4\\T4.csproj|solutionrelative:t4\\texttemplate3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextTemplate4.tt",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\T4\\TextTemplate4.tt",
+              "RelativeDocumentMoniker": "T4\\TextTemplate4.tt",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\T4\\TextTemplate4.tt",
+              "RelativeToolTip": "T4\\TextTemplate4.tt",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-06T08:13:15.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextTemplate2.tt",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\T4\\TextTemplate2.tt",
+              "RelativeDocumentMoniker": "T4\\TextTemplate2.tt",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\T4\\TextTemplate2.tt",
+              "RelativeToolTip": "T4\\TextTemplate2.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-06T08:13:15.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextTemplate3.tt",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\T4\\TextTemplate3.tt",
+              "RelativeDocumentMoniker": "T4\\TextTemplate3.tt",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\T4\\TextTemplate3.tt",
+              "RelativeToolTip": "T4\\TextTemplate3.tt",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-06T08:13:15.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextTemplate3.txt",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\T4\\TextTemplate3.txt",
+              "RelativeDocumentMoniker": "T4\\TextTemplate3.txt",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\T4_Full\\T4_Full\\T4\\TextTemplate3.txt",
+              "RelativeToolTip": "T4\\TextTemplate3.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-06T08:13:15.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
